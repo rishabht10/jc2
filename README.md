@@ -1,4 +1,4 @@
-Frontend for a Local store's website
+Frontend for a Local store's website using Vanilla JS, HTML and CSS
 
 ![Screenshot (54)](https://user-images.githubusercontent.com/110122658/229329994-defa65b6-0c63-4675-af78-fb56ab24d2e8.png)
 
